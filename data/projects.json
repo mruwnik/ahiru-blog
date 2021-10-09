@@ -1,0 +1,29 @@
+{
+   "list": [
+      {
+         "name":"Chicken master",
+         "url":"https://github.com/mruwnik/chicken-master",
+         "desc":"Handle the business of a small farm"
+      },
+      {
+         "name":"Reciepts",
+         "url":"https://github.com/mruwnik/reciept",
+         "desc":"A webapp to manage costs and reciepts"
+      },
+      {
+	 "name":"Tree",
+	 "url":"https://github.com/mruwnik/tree-lisp",
+	 "desc":"Simulate the growth of a tree"
+      },
+      {
+	 "name":"Leaflets",
+	 "url":"https://github.com/mruwnik/leaflets",
+	 "desc":"A webapp to handle door-to-door leaflet distribution"
+      },
+      {
+	 "name":"Invoices",
+	 "url":"https://github.com/mruwnik/invoices",
+	 "desc":"Generate invoices on the basis of a config file"
+      }
+   ]
+}
