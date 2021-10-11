@@ -3,9 +3,11 @@ languageCode = "en-us"
 title = "Ahiru"
 theme = "cactus"
 copyright = "none"
+rssLimit = 40
 
 [params]
   projectsUrl = "https://github.com/mruwnik"
+  rss = true
   css = ["/css/custom.css"]
 
 [[menu.main]]
