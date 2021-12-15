@@ -7,7 +7,7 @@ draft: false
 
 # Fiszki z roślin Polski
 
-Chcę wiedzieć jaki rośliny spotykam. Ale mam słabą pamięć. Tutaj na ratunek przychodzi [Anki](https://apps.ankiweb.net/). [Tutaj](/anki/plants.pkg) jest zbiór fiszek co by z tym wspomóc.
+Chcę wiedzieć jaki rośliny spotykam. Ale mam słabą pamięć. Na ratunek przychodzi [Anki](https://apps.ankiweb.net/). [Tutaj](/anki/rosliny.apkg) jest zbiór fiszek co by z tym wspomóc.
 
 | Łacinska nazwa               | Nazwa pospolita                   |
 | ---------------------------- | --------------------------------- |
