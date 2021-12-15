@@ -32,7 +32,7 @@ It's hard to remember what books are worthy of recommendation, so this is a list
 * [Rationality: From AI to Zombies](https://www.lesswrong.com/tag/rationality:-from-ai-to-zombies)
 * [The Demon-Haunted World](https://www.goodreads.com/book/show/17349.The_Demon_Haunted_World)
 * [The Art of War](https://www.gutenberg.org/ebooks/132)
-* [The Scout Mindset](https://www.penguinrandomhouse.com/books/555240/the-scout-mindset-by-julia-galef/)
+* [The Scout Mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset)
 * [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)
 
 # Books to buy
