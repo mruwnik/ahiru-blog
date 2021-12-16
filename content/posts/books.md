@@ -5,7 +5,7 @@ tags: ["Books", "Lists"]
 draft: false
 ---
 
-It's hard to remember what books are worthy of recommendation, so this is a list of such books, updated whenever I think of something new to add. These are the books I'd like to have in physical form, or which I'd take with me if sent to mars. Some are simply wonderful and worthy of multiple rereads, others are useful in striving for Arete. Most are both.
+It's hard to remember what books are worthy of recommendation, so this is a list of such books, updated whenever I think of something new to add. These are the books I'd like to have in physical form, or which I'd take with me if sent to Mars. Some are simply wonderful and worthy of multiple rereads, others are useful in striving for Arete. Most are both.
 
 # Books to re-read
 ## Because they're so good

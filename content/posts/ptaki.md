@@ -1,7 +1,7 @@
 ---
 title: "Gatunki ptaków"
 date: 2021-12-15T20:27:09+02:00
-tags: ["Anki", "Polski", "Biology"]
+tags: ["Anki", "Polski", "Biology", "Lists"]
 draft: false
 ---
 
@@ -11,25 +11,28 @@ draft: false
 
 # W fiszkach
 
-* Zięba
 * Bogatka
-* Modraszka
-* Szarytka
-* Mysikrólik
-* Zniczek
-
-# Do dodania
-
-* Grubodziób
-* Kos
-* Szpak
-* Rudzik
-* Pierwiosnek
-* Kowalik
-* Dzwoniec
-* Trznadel
 * Drozd śpiewak
-* Dzięcioły
 * Dymówka
-* Oknówka
+* Dzięcioł białogrzbiety
+* Dzięcioł czarny
+* Dzięcioł duży
+* Dzięcioł trójpalczasty
+* Dzięcioł zielony
+* Dzięcioł średni
+* Dzięciołek
+* Dzwoniec
+* Grubodziób
 * Jerzyk
+* Kos
+* Kowalik
+* Modraszka
+* Mysikrólik
+* Oknówka
+* Pierwiosnek
+* Rudzik
+* Szarytka
+* Szpak
+* Trznadel
+* Zięba
+* Zniczek

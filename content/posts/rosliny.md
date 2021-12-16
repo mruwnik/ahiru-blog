@@ -1,7 +1,7 @@
 ---
 title: "Gatunki roślin"
 date: 2021-12-15T21:27:09+02:00
-tags: ["Anki", "Polski", "Biology"]
+tags: ["Anki", "Polski", "Biology", "Lists"]
 draft: false
 ---
 
