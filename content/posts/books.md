@@ -34,6 +34,7 @@ It's hard to remember what books are worthy of recommendation, so this is a list
 * [The Art of War](https://www.gutenberg.org/ebooks/132)
 * [The Scout Mindset](https://astralcodexten.substack.com/p/book-review-the-scout-mindset)
 * [The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)
+* [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 
 # Books to buy
 * [Gardening When It Counts: Growing Food in Hard Times](https://www.goodreads.com/book/show/183595.Gardening_When_It_Counts)
