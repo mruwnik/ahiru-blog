@@ -1,4 +1,5 @@
-abaseURL = "http://example.org/"
+baseURL = "https://ahiru.pl"
+buildDrafts = false
 languageCode = "en-us"
 title = "Ahiru"
 theme = "cactus"
@@ -29,4 +30,3 @@ weight = 3
 name = "Tags"
 url = "/tags"
 weight = 4
-
