@@ -1,7 +1,7 @@
 ---
 title: "Book list"
 date: 2021-12-07T09:04:09+02:00
-tags: ["Books", "Lists"]
+tags: ["Books", "Lists", "Edukejshun"]
 draft: false
 ---
 
