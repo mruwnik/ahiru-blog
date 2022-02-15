@@ -29,3 +29,8 @@ As a part of my ongoing quest for excellence, world domination etc., I've lately
 ## Physics
 
  * [Feynman lectures](https://www.feynmanlectures.caltech.edu/)
+
+## Theology
+
+ * [Yale - Introduction to the Old Testament](https://www.youtube.com/watch?v=mo-YL-lv3RY&list=PLh9mgdi4rNeyuvTEbD-Ei0JdMUujXfyWi)
+ * [Yale - Introduction to the New Testament](https://www.youtube.com/watch?v=dtQ2TS1CiDY&list=PL279CFA55C51E75E0)
