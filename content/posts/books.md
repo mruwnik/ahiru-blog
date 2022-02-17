@@ -26,6 +26,7 @@ It's hard to remember what books are worthy of recommendation, so this is a list
 * [Lord Jim](https://www.goodreads.com/book/show/12194.Lord_Jim)
 * [Watership Down](https://www.goodreads.com/book/show/76620.Watership_Down)
 * [Ender's Game](https://www.goodreads.com/series/43963-ender-s-saga)
+* [Harry Potter and the Methods of Rationality](https://www.hpmor.com/)
 
 ## To become better
 
