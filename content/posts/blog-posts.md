@@ -11,6 +11,7 @@ I often find myself looking for a blog post that I read 2 years ago to prove som
  * [A Modest Proposal For Republicans: Use The Word "Class"](https://astralcodexten.substack.com/p/a-modest-proposal-for-republicans)
  * [Beware The Man Of One Study](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/ythFNoiAotjvuEGkg)
  * [Bounded Distruct](https://astralcodexten.substack.com/p/bounded-distrust)
+ * [Cardiologists and Chinese Robbers](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/)
  * [Is Eating Meat A Net Harm?](https://slatestarcodex.com/2019/12/11/acc-is-eating-meat-a-net-harm/)
  * [Kolmogorov Complicity And The Parable Of Lightning](https://slatestarcodex.com/2017/10/23/kolmogorov-complicity-and-the-parable-of-lightning/)
  * [The Phrase "No Evidence"](https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag)
@@ -18,6 +19,7 @@ I often find myself looking for a blog post that I read 2 years ago to prove som
 
 ## Slime Mold Time Mold
  * [A chemical Hunger](https://slimemoldtimemold.com/tag/a-chemical-hunger/)
+ * [The Scientific Virtues](https://slimemoldtimemold.com/2022/02/10/the-scientific-virtues/)
 
 ## Less Wrong
  * [Study Guide](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)
