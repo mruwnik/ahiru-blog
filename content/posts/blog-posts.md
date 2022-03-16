@@ -21,3 +21,10 @@ I often find myself looking for a blog post that I read 2 years ago to prove som
 
 ## Less Wrong
  * [Study Guide](https://www.lesswrong.com/posts/bjjbp5i5G8bekJuxv/study-guide)
+ * [AGI Safety Study Guide](https://www.lesswrong.com/posts/Zmwkz2BMvuFFR8bi3/agi-safety-fundamentals-curriculum-and-application)
+
+## Zvi
+ * [Everybody knows](https://www.lesswrong.com/posts/BNfL58ijGawgpkh9b/everybody-knows)
+
+## Yudkowsky
+ * [Twelve Virtues of Rationality](https://www.yudkowsky.net/rational/virtues)
