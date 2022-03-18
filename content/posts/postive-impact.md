@@ -5,7 +5,7 @@ tags: ["Ruminations", "Rationality", "Philosophy"]
 draft: false
 ---
 
-I've been asked to define how I understand "Positive impact". Which is an exceedingly good question. Also an unexpectedly hard one. Which shouldn't be surprising, seeing as that is pretty much the main thing studied by philosophy of morality etc. So here's my attempt at solving one of the hardest and most elusive problems of humanity in a single blog post. Trivial, I know. Just in case it wasn't obvious, I'm not trying to create an overarching framework of morality here, just writing down my thoughts on the topic.
+I've been asked to define how I understand "Positive impact". Which is an exceedingly good question. Also an unexpectedly hard one. Which shouldn't be surprising, seeing as that is pretty much the main thing studied by philosophy of morality etc. So here's my attempt at solving one of the hardest and most elusive problems of humanity in a single blog post. Trivial, I know. Just in case it wasn't obvious, I'm not trying to create an overarching framework of morality here, just writing down my thoughts on the topic. The second part, where I pontify on morality, can be found [here](/posts/postive-impact-2/).
 
 ## Impact
 
