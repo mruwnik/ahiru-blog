@@ -7,6 +7,21 @@ draft: false
 
 I often find myself looking for a blog post that I read 2 years ago to prove some point or other, just to end by giving up. I somewhat started to address this problem by book marking them, but that tends to get spread over various browsers. Of course there are services that offer this, hehe, service, but that goes back to my paranoia. So a manual list will do for now. I don't tend to find more than 1 or 2 posts worth saving per week, so it shouldn't be too unwieldy.
 
+# Programming
+
+ * [Programming sucks](https://www.stilldrinking.org/programming-sucks)
+
+# Inspirational claptrap
+
+ * [95 percentile skill](https://danluu.com/p95-skill/)
+ * [Becoming a magician](https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/)
+ * [Hamming on research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+ * [How to be successful](https://blog.samaltman.com/how-to-be-successful)
+ * [Life is short](http://paulgraham.com/vb.html)
+ * [There's no speed limit](https://sive.rs/kimo)
+
+# By author
+
 ## Scott Alexander
  * [A Modest Proposal For Republicans: Use The Word "Class"](https://astralcodexten.substack.com/p/a-modest-proposal-for-republicans)
  * [Beware The Man Of One Study](https://www.lesswrong.com/s/BQBqPowfxjvoee8jw/p/ythFNoiAotjvuEGkg)
