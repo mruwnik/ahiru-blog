@@ -1,0 +1,11 @@
+{{ define "main" }}
+{{.Content}}
+<ul class="posts">
+{{- range .Data.Pages.GroupByDate "2006" -}}
+  <h4>{{.Key}}</h4>
+  {{- range .Pages -}}
+  <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+  {{- end -}}
+{{- end -}}
+</ul>
+{{ end }}
