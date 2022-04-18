@@ -25,6 +25,7 @@ As a part of my ongoing quest for excellence, world domination etc., I've lately
  * Stanford - [Linear Dynamical Systems](https://see.stanford.edu/Course/EE263)
  * Gilbert Strang -[Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
  * Sidney A. Morris - [Topology](https://www.topologywithouttears.net/)
+ * Aubrey Clayton - [Probability Theory](https://www.youtube.com/playlist?list=PL9v9IXDsJkktefQzX39wC2YG07vw7DsQ_)
 
 ## Physics
 
