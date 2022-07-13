@@ -19,6 +19,7 @@ I often find myself looking for a blog post that I read 2 years ago to prove som
  * [How to be successful](https://blog.samaltman.com/how-to-be-successful)
  * [Life is short](http://paulgraham.com/vb.html)
  * [There's no speed limit](https://sive.rs/kimo)
+ * [Reneging Prosocially](https://medium.com/@ThingMaker/reneging-prosocially-5b44bdec3bb9)
 
 # By author
 
